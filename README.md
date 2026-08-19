@@ -17,11 +17,11 @@ This repository hosts the public, indexable version of the report so that it can
 
 ## Live site
 
-https://hunterhghs.github.io/Carbon-Regulation-pdf/
+https://carbonregulationpdf.hheuristics.com/
 
 ## Suggested citation
 
-> Hughes, Hunter. (2026). *Carbon Regulation and Economic Convergence: How Climate Policy Can Reshape the Development Path of Emerging Economies.* H Heuristics Research. https://hunterhghs.github.io/Carbon-Regulation-pdf/
+> Hughes, Hunter. (2026). *Carbon Regulation and Economic Convergence: How Climate Policy Can Reshape the Development Path of Emerging Economies.* H Heuristics Research. https://carbonregulationpdf.hheuristics.com/
 
 ## About H Heuristics
 

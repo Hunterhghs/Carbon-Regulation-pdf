@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hunterhghs.github.io/Carbon-Regulation-pdf/sitemap.xml
+Sitemap: https://carbonregulationpdf.hheuristics.com/sitemap.xml
