@@ -152,6 +152,14 @@
     }
     .btn:hover { background: #c0392b; }
     .btn .ext { font-weight: 400; opacity: 0.8; margin-left: 6px; }
+    .btn-outline {
+      background: transparent;
+      color: var(--ink);
+      border: 2px solid var(--ink);
+      padding: 11px 24px;
+    }
+    .btn-outline:hover { background: var(--ink); color: #fff; }
+    .actions .btn + .btn { margin-left: 12px; }
     .meta {
       display: inline-block;
       margin-left: 18px;
@@ -231,7 +239,8 @@
     <div class="date">August 2026 &middot; 34 pages</div>
 
     <div class="actions">
-      <a class="btn" href="carbon-regulation-and-economic-convergence.pdf" download>Download PDF <span class="ext">(PDF, 0.9&nbsp;MB)</span></a>
+      <a class="btn" href="carbon-regulation-and-economic-convergence.pdf" target="_blank" rel="noopener">View PDF <span class="ext">(opens in new tab)</span></a>
+      <a class="btn btn-outline" href="carbon-regulation-and-economic-convergence.pdf" download>Download PDF <span class="ext">(PDF, 0.9&nbsp;MB)</span></a>
       <span class="meta">Full text &middot; 34 pages &middot; English</span>
     </div>
 
